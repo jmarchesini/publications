@@ -9,6 +9,6 @@ While PKI applications differ in how they use keys, all applications share one a
   October 2005.  
 
 # Downloads
-- PDF
-- Preliminary tech report
-- Related Dissertation
+- [PDF](pst2.pdf)
+- [Preliminary tech report](tr2005-532.pdf)
+- [Related Dissertation](../shemp/readme.md)
