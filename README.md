@@ -7,7 +7,7 @@
   Gabe Vanrenen, Sean W. Smith, and John Marchesini  
   International Journal of Information Security. January 2006.  
 
-- Keyjacking: The Surprising Insecurity of Client-side SSL  
+- [Keyjacking: The Surprising Insecurity of Client-side SSL](keyjackingcs/readme.md)  
   John Marchesini, Sean Smith, and Meiyuan Zhao  
   Computers and Security. March 2005.  
 
