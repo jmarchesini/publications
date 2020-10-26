@@ -17,7 +17,7 @@
   John Marchesini and Sean W. Smith  
   3rd Annual Conference on Privacy, Security, and Trust. October 2005.  
 
-- Modeling Public Key Infrastructures in the Real World  
+- [Modeling Public Key Infrastructures in the Real World](modelingpki/readme.md) 
   John Marchesini and Sean W. Smith  
   Second European PKI Workshop. June 2005.  
   
