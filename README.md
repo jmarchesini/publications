@@ -3,7 +3,7 @@
   Sean Smith and John Marchesini
 
 # Journal
-- Distributing Security-Mediated PKI  
+- [Distributing Security-Mediated PKI](dsem/readme.md)  
   Gabe Vanrenen, Sean W. Smith, and John Marchesini  
   International Journal of Information Security. January 2006.  
 
