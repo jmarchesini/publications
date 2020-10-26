@@ -12,7 +12,7 @@
   Computers and Security. March 2005.  
 
 # Conference and Workshop
-- SHEMP: Secure Hardware Enhanced MyProxy  
+- [SHEMP: Secure Hardware Enhanced MyProxy](shemppst/readme.md)  
   John Marchesini and Sean W. Smith  
   3rd Annual Conference on Privacy, Security, and Trust. October 2005.  
 
