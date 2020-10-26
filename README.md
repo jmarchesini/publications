@@ -1,6 +1,7 @@
 # Book
 - [The Craft of System Security](https://www.amazon.com/Craft-System-Security-Sean-Smith-ebook/dp/B004X1D2SY)  
   Sean Smith and John Marchesini
+  Addison-Wesley Press. December 2007.
 
 # Journal
 - [Distributing Security-Mediated PKI](dsem/readme.md)  
