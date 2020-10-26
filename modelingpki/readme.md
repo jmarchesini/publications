@@ -10,5 +10,4 @@ PKIs are complex distributed systems that are responsible for giving users enoug
   Springer-Verlag LNCS. June 2005.  
 
 # Downloads
-- PDF
-- Related work
+- [PDF](modelingpki.pdf)
