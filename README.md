@@ -1,5 +1,5 @@
 # Book
-- The Craft of System Security  
+- [The Craft of System Security](https://www.amazon.com/Craft-System-Security-Sean-Smith-ebook/dp/B004X1D2SY)  
   Sean Smith and John Marchesini
 
 # Journal
@@ -36,7 +36,7 @@
   John Marchesini, Sean Smith, and Meiyuan Zhao  
   2nd Annual PKI Research Workshop. April 2003.  
 
-- Virtual Hierarchies: An Architecture for Building & Maintaining Efficient & Resilient Trust Chains  
+- Virtual Hierarchies: Architecture for Building & Maintaining Efficient & Resilient Trust Chains  
   John Marchesini and Sean Smith  
   NORDSEC 2002 - 7th Nordic Workshop on Secure IT Systems. November 2002.  
 
