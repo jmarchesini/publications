@@ -9,6 +9,5 @@ In theory, PKI can provide a flexible and strong way to authenticate users in di
   Volume 24, Issue 2, March 2005.  
 
 # Downloads
-- PDF
-- Related work
-- Preliminary tech report
+- [PDF](msz05.pdf)
+- [Preliminary tech report](tr2004-489.pdf)
