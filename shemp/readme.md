@@ -16,7 +16,7 @@ The contributions of this thesis include the discovery of novel techniques used 
 
 # Downloads
 - [PDF](thesis.pdf)
-- [Summary tech report](tr2005-shemp.pdf)
+- [Summary tech report](tr2005-532-shemp.pdf)
 - [Proposal tech report](tr2004-525.pdf)
 
 # Code
