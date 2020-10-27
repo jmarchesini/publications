@@ -21,7 +21,7 @@
   John Marchesini and Sean W. Smith  
   Second European PKI Workshop. June 2005.  
   
-- The Dartmouth Green Grid  
+- [The Dartmouth Green Grid](greengrid/readme.pdf)  
   J.E. Dobson, J.B. Woodward, S.A. Schwarz, J.C. Marchesini, H. Farid, and S.W. Smith  
   Workshop on High Performance Computing in Academia. May 2005.  
   
