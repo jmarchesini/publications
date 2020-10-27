@@ -29,7 +29,7 @@
   John Marchesini, Sean Smith, Omen Wild, Josh Stabiner, and Alex Barsamian  
   20th Annual Computer Security Applications Conference. December 2004.  
   
-- Greenpass: Decentralized, PKI-based Authorization for Wireless LANs  
+- [Greenpass: Decentralized, PKI-based Authorization for Wireless LANs](greenpass/readme.md)  
   Sean Smith, Nicholas Goffee, Sung Hoon Kim, Punch Taylor, Meiyuan Zhao, John Marchesini  
   3rd Annual PKI Research and Development Workshop. April 2004.  
   
