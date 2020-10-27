@@ -25,7 +25,7 @@
   J.E. Dobson, J.B. Woodward, S.A. Schwarz, J.C. Marchesini, H. Farid, and S.W. Smith  
   Workshop on High Performance Computing in Academia. May 2005.  
   
-- Open-Source Applications of TCPA Hardware  
+- [Open-Source Applications of TCPA Hardware](bearapps/readme.md)  
   John Marchesini, Sean Smith, Omen Wild, Josh Stabiner, and Alex Barsamian  
   20th Annual Computer Security Applications Conference. December 2004.  
   
