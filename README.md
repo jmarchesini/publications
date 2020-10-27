@@ -33,23 +33,23 @@
   Sean Smith, Nicholas Goffee, Sung Hoon Kim, Punch Taylor, Meiyuan Zhao, John Marchesini  
   3rd Annual PKI Research and Development Workshop. April 2004.  
   
-- Keyjacking: Risks of the Current Client-side Infrastructure  
+- [Keyjacking: Risks of the Current Client-side Infrastructure](keyjackingpki/readme.md)  
   John Marchesini, Sean Smith, and Meiyuan Zhao  
   2nd Annual PKI Research Workshop. April 2003.  
 
-- Virtual Hierarchies: Architecture for Building & Maintaining Efficient & Resilient Trust Chains  
+- [Virtual Hierarchies: Architecture for Building & Maintaining Efficient & Resilient Trust Chains](vhire/readme.md)  
   John Marchesini and Sean Smith  
   NORDSEC 2002 - 7th Nordic Workshop on Secure IT Systems. November 2002.  
 
 # Other
-- SHEMP: Secure Hardware Enhanced MyProxy  
+- [SHEMP: Secure Hardware Enhanced MyProxy](shemp/readme.md)  
   John Marchesini, Sean Smith  
   PhD Dissertation. March 2005.  
   
-- Experimenting with TCPA Hardware, Or: How I Learned to Stop Worrying and Love The Bear  
+- [Experimenting with TCPA Hardware, Or: How I Learned to Stop Worrying and Love The Bear](bear/readme.md)  
   John Marchesini, Sean W. Smith, Omen Wild, Rich MacDonald  
   Dartmouth College Technical Report TR2003-476. 2003.  
   
-- Survivable Trust for Critical Infrastructure  
+- [Survivable Trust for Critical Infrastructure](marianas/readme.md)  
   D. Nicol, S.W. Smith, C. Hawblitzel, E. Feustel, J. Marchesini, B. Yee.  
   Internet2 Collaborative Computing in Higher Education: Peer-to-Peer and Beyond. 2001  
