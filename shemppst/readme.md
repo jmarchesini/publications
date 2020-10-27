@@ -14,4 +14,4 @@ While PKI applications differ in how they use keys, all applications share one a
 - [Related Dissertation](../shemp/readme.md)
 
 # Code
-- https://github.com/jmarchesini/shemp
+- [https://github.com/jmarchesini/shemp]
