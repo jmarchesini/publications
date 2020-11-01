@@ -20,4 +20,6 @@ The contributions of this thesis include the discovery of novel techniques used 
 - [Proposal tech report](tr2004-525.pdf)
 
 # Code
-- [jmarchesini/shemp](https://github.com/jmarchesini/shemp)
+- [Complete tarball](shemp.tar.gz)
+- [Repository](shemp_repository.tar.gz)
+- [Client](shemp_shutil.tar.gz)
