@@ -12,6 +12,3 @@ While PKI applications differ in how they use keys, all applications share one a
 - [PDF](pst2.pdf)
 - [Preliminary tech report](tr2005-532.pdf)
 - [Related Dissertation](../shemp/readme.md)
-
-# Code
-- [jmarchesini/shemp](https://github.com/jmarchesini/shemp)
